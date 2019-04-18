@@ -1,0 +1,56 @@
+a
+9
+
+Enter sort (i[nsertion], q[uick], m[erge], r[adix], a[ll]): 
+Enter n (size of array to sort): 
+Quick: 10
+[ 0 1 2 2 4 4 6 6 7 ]
+Radix:
+[ 0 1 2 2 4 4 6 6 7 ]
+Merge: 16
+[ 0 1 2 2 4 4 6 6 7 ]
+Insertion: 0
+[ 0 1 2 2 4 4 6 6 7 ]
+
+i
+9
+
+Enter sort (i[nsertion], q[uick], m[erge], r[adix], a[ll]): 
+Enter n (size of array to sort): 
+Insertion: 13
+[ 0 2 3 4 4 5 6 6 7 ]
+
+m
+9
+
+Enter sort (i[nsertion], q[uick], m[erge], r[adix], a[ll]): 
+Enter n (size of array to sort): 
+Merge: 11
+[ 1 1 2 3 5 6 7 7 8 ]
+
+q
+9
+
+Enter sort (i[nsertion], q[uick], m[erge], r[adix], a[ll]): 
+Enter n (size of array to sort): 
+Quick: 10
+[ 2 4 4 4 5 5 5 6 6 ]
+
+r
+13
+
+Enter sort (i[nsertion], q[uick], m[erge], r[adix], a[ll]): 
+Enter n (size of array to sort): 
+Radix:
+[ 1 1 2 4 5 5 6 7 7 9 10 10 12 ]
+
+a
+1000
+
+Enter sort (i[nsertion], q[uick], m[erge], r[adix], a[ll]): 
+Enter n (size of array to sort): 
+Quick: 5817
+Radix:
+Merge: 5044
+Insertion: 0
+

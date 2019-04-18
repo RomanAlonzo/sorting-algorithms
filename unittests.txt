@@ -1,0 +1,15 @@
+The following are unit test results for your code, which determines 1 of the 5 correctness points for each of the sorts. For each test, your score is followed by a brief description of the test.
+
+InsertionSort
+0 / 1 - insertionSort a subarray (start != 0, end != A.length)
+
+Radix Sort
+0 / 1 - radix sort {-183, 4, -6, -8, -4, -6, 3, -7, -7}
+
+MergeSort
+0 / 1 - test merge
+
+QuickSort
+0 / 1 - partition with an arbitrary pivot
+
+Total: 0/4
